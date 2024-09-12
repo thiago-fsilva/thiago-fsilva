@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="right" alt="" height="190px" src="./src/studying.gif">
+<img align="right" alt="" height="190px" src="https://i.imgflip.com/5yauub.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -29,7 +29,6 @@
  
 </div>
 
-#
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
@@ -39,10 +38,3 @@
   </a>
 </div>
 
-
-#
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiago-fsilva/thiago-fsilva/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiago-fsilva/thiago-fsilva/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thiago-fsilva/thiago-fsilva/output/github-contribution-grid-snake.svg">
-</picture>
